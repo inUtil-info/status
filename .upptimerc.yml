@@ -16,7 +16,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.inutil.info
-  baseUrl: /status
+  baseUrl: /
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: inUtil Labs
   introTitle: "Real time status of free micro-services, AI powered by **inUtil Labs**."
