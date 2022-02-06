@@ -19,8 +19,9 @@ status-website:
   baseUrl: /
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: inUtil Labs
-  introTitle: "Real time status of micro-services provided by **inUtil Labs**."
-  introMessage: This status page shows **real-time** data from our [GitHub repository](https://github.com/inUtin-info/status). No server is required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Real time status of **inUtil** micro-services."
+  introMessage: 
+  # This status page shows **real-time** data from our [GitHub repository](https://github.com/inUtin-info/status). No server is required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   theme: night
   navbar:
     - title: Status
