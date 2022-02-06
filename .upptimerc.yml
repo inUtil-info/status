@@ -10,11 +10,13 @@ sites:
   - name: whin
     url: https://news.ycombinator.com
   - name: monitorin
-    url: https://thissitedoesnotexist.koj.co
+    url: https://inutil.info
   - name: tarifin
-    url: https://thissitedoesnotexist.koj.co
+    url: https://inutil.info
   - name: mqin
-    url: https://thissitedoesnotexist.koj.co
+    url: https://inutil.info
+  - name: canalin
+    url: https://inutil.info
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
