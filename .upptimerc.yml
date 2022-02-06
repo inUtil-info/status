@@ -17,6 +17,10 @@ sites:
     url: https://inutil.info
   - name: canalin
     url: https://inutil.info
+  - name: hookin
+    url: https://inutil.info
+  - name: robotin
+    url: https://inutil.info
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
