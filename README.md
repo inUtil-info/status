@@ -1,6 +1,6 @@
 # [📈 Live Status](https://status.inutil.info): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [inUtil](https://inutil.info), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [inUtil Labs](https://inutil.info), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/inUtil-info/status/workflows/Uptime%20CI/badge.svg)](https://github.com/inUtil-info/status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/inUtil-info/status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/inUtil-info/status/actions?query=workflow%3A%22Response+Time+CI%22)
