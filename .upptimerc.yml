@@ -27,7 +27,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.inutil.info
   baseUrl: /
-  logoUrl: https://github.com/inUtil-info/status/blob/master/assets/dado-ext.svg
+  logoUrl: https://raw.githubusercontent.com/inUtil-info/status/master/assets/dado-ext.svg
   name: inUtil Labs - status
   introTitle: "Real time status of **inUtil** micro-services."
   introMessage: 
