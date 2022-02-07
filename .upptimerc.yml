@@ -14,7 +14,9 @@ sites:
   - name: tarifin
     url: https://inutil.info
   - name: mqin
-    url: https://inutil.info
+    check: "tcp-ping"
+    url: mqin.inutil.info
+    port: 30540    
   - name: canalin
     url: https://inutil.info
   - name: hookin
