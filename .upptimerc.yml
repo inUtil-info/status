@@ -34,12 +34,14 @@ status-website:
   # This status page shows **real-time** data from our [GitHub repository](https://github.com/inUtin-info/status). No server is required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   theme: light
   navbar:
-    - title: Status
-      href: /
+    #- title: Status
+    #  href: /
+    - title: GitHub
+      href: https://github.com/inUtil-info
     - title: inUtil Labs
       href: https://inutil.info
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    #- title: GitHub
+    #  href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
