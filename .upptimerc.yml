@@ -16,7 +16,7 @@ sites:
   - name: mqin
     check: "tcp-ping"
     url: mqin.inutil.info
-    port: 30540    
+    port: $MQIN_PORT    
   - name: canalin
     url: https://inutil.info
   - name: hookin
