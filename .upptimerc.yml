@@ -18,7 +18,7 @@ sites:
     url: mqin.inutil.info
     port: $MQIN_PORT    
   - name: canalin
-    url: https://inutil.info
+    url: $CANALIN_URL
   - name: hookin
     url: https://inutil.info
   - name: robotin
