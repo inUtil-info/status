@@ -15,6 +15,10 @@ sites:
     url: $MONITORIN_URL
   - name: tarifin
     url: $TARIFIN_URL
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: mqin
     check: "tcp-ping"
     url: mqin.inutil.info
