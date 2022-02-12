@@ -6,13 +6,15 @@ sites:
   - name: inUtil Labs
     url: https://inutil.info
   - name: gasolinBot
-    url: https://en.wikipedia.org
+    check: "tcp-ping"
+    url: mqin.inutil.info
+    port: $GASOLIN_BOT_PORT
   - name: whin
-    url: https://news.ycombinator.com
+    url: $WHIN_URL
   - name: monitorin
-    url: https://inutil.info
+    url: $MONITORIN_URL
   - name: tarifin
-    url: https://inutil.info
+    url: $TARIFIN_URL
   - name: mqin
     check: "tcp-ping"
     url: mqin.inutil.info
@@ -22,7 +24,9 @@ sites:
   - name: hookin
     url: https://inutil.info
   - name: robotin
-    url: https://inutil.info
+    check: "tcp-ping"
+    url: mqin.inutil.info
+    port: $ROBOTIN_PORT
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
