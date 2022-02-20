@@ -1,7 +1,7 @@
 url: $WHIN_URL
-status: down
-code: 404
-responseTime: 196
-lastUpdated: 2022-02-20T21:12:24.652Z
+status: up
+code: 200
+responseTime: 228
+lastUpdated: 2022-02-20T21:31:09.246Z
 startTime: Sun Feb 06 2022 18:42:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
