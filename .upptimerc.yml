@@ -38,6 +38,7 @@ status-website:
   cname: status.inutil.info
   baseUrl: /
   logoUrl: https://raw.githubusercontent.com/inUtil-info/status/master/assets/dado-ext.svg
+  faviconSvg: https://raw.githubusercontent.com/inUtil-info/status/master/assets/dado-ext.svg
   name: inUtil Labs
   introTitle: "Real time state of **inUtil** micro-services."
   introMessage: 
