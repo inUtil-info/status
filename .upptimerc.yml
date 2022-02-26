@@ -44,7 +44,7 @@ status-website:
   introMessage: 
   # This status page shows **real-time** data from our [GitHub repository](https://github.com/inUtin-info/status). No server is required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   theme: light
-  customHeadHtml: "<link rel="shortcut icon" type="image/x-icon" href="https://inutil.info/favicon.ico?">"
+  # customHeadHtml: "<link rel="shortcut icon" type="image/x-icon" href="https://inutil.info/favicon.ico?">"   (revisar esto, por algun motivo no va)
   navbar:
     #- title: Status
     #  href: /
