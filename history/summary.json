@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/inutil.info",
     "slug": "in-util-labs",
     "status": "down",
-    "uptime": "98.08%",
-    "uptimeDay": "60.52%",
-    "uptimeWeek": "94.36%",
-    "uptimeMonth": "98.08%",
-    "uptimeYear": "98.08%",
+    "uptime": "97.54%",
+    "uptimeDay": "49.01%",
+    "uptimeWeek": "92.72%",
+    "uptimeMonth": "97.54%",
+    "uptimeYear": "97.54%",
     "time": 201,
     "timeDay": 238,
     "timeWeek": 281,
     "timeMonth": 201,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2022-02-27": 539,
+      "2022-02-27": 704,
       "2022-02-26": 30
     }
   },
@@ -43,9 +43,9 @@
     "url": "$WHIN_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "whin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -55,6 +55,7 @@
     "timeMonth": 264,
     "timeYear": 264,
     "dailyMinutesDown": {
+      "2022-02-27": 0,
       "2022-02-20": 19
     }
   },
@@ -63,9 +64,9 @@
     "url": "$MONITORIN_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "monitorin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -75,6 +76,7 @@
     "timeMonth": 78,
     "timeYear": 78,
     "dailyMinutesDown": {
+      "2022-02-27": 0,
       "2022-02-20": 19
     }
   },
@@ -142,18 +144,18 @@
     "icon": "https://favicons.githubusercontent.com/inutil.info",
     "slug": "hookin",
     "status": "down",
-    "uptime": "98.08%",
-    "uptimeDay": "60.53%",
-    "uptimeWeek": "94.36%",
-    "uptimeMonth": "98.08%",
-    "uptimeYear": "98.08%",
+    "uptime": "97.54%",
+    "uptimeDay": "49.01%",
+    "uptimeWeek": "92.72%",
+    "uptimeMonth": "97.54%",
+    "uptimeYear": "97.54%",
     "time": 22,
     "timeDay": 17,
     "timeWeek": 22,
     "timeMonth": 22,
     "timeYear": 22,
     "dailyMinutesDown": {
-      "2022-02-27": 539,
+      "2022-02-27": 705,
       "2022-02-26": 30
     }
   },
