@@ -1,7 +1,7 @@
 url: $MONITORIN_URL
-status: down
-code: 404
-responseTime: 100
-lastUpdated: 2022-03-26T07:14:27.949Z
+status: up
+code: 200
+responseTime: 102
+lastUpdated: 2022-03-26T07:28:26.697Z
 startTime: Sun Feb 06 2022 18:42:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
